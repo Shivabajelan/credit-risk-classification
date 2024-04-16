@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Module 12 Report Template
 
 ## Overview of the Analysis
 
@@ -40,3 +40,5 @@ In other words, there are also very few high-risk loans for the model to learn f
 
 For trying to classify loans, trying to prevent high-risk loans is more important than giving out a loan as more money can be lost from a single loan that defaults than the interest earned from a loan.
 The total accuracy of the model is high %99.
+
+
